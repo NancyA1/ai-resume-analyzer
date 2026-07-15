@@ -1,30 +1,30 @@
-# 🚀 AI Resume Analyzer
+# AI Resume Analyzer
 
 A modern AI-powered Resume Analyzer that helps candidates improve their resumes by providing ATS scoring, skill analysis, and intelligent AI feedback. The goal is to help users optimize their CVs and increase their chances of getting hired.
 
-👉 **Live Demo:** https://ai-resume-analyzer-drab-sigma.vercel.app
+ **Live Demo:** ai-resume-analyzer-drab-sigma.vercel.app
 
 ---
 
-## ✨ Overview
+## Overview
 
 This project analyzes resumes using AI and provides actionable insights based on ATS (Applicant Tracking System) standards. It evaluates content quality, skills, and formatting to help users improve their job applications.
 
 ---
 
-## 🔥 Features
+## Features
 
-- 📄 Upload and analyze PDF resumes  
-- 🤖 AI-powered resume evaluation  
-- 📊 ATS compatibility scoring system  
-- 💡 Skill gap detection  
-- ✍️ Personalized improvement suggestions  
-- 🎯 Clean, modern, responsive UI  
-- ⚡ Fast and real-time analysis experience  
+- Upload and analyze PDF resumes  
+- AI-powered resume evaluation  
+- ATS compatibility scoring system  
+- Skill gap detection  
+- Personalized improvement suggestions  
+- Clean, modern, responsive UI  
+-Fast and real-time analysis experience  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - React / Next.js  
 - TypeScript  
@@ -35,7 +35,7 @@ This project analyzes resumes using AI and provides actionable insights based on
 
 ---
 
-## 🚀 Getting Started (Local Setup)
+## Getting Started (Local Setup)
 
 Clone the repository:
 
@@ -64,13 +64,13 @@ http://localhost:3000
 
 ---
 
-## 🌐 Live Deployment
+##  Live Deployment
 
-👉 https://ai-resume-analyzer-drab-sigma.vercel.app
+ ai-resume-analyzer-drab-sigma.vercel.app
 
 ---
 
-## 💡 What I Learned
+## What I Learned
 
 - Building full-stack AI-powered applications  
 - Integrating AI APIs for real-world use cases  
